@@ -130,5 +130,4 @@ hs_err_pid*
 .idea/misc.xml
 .idea/vcs.xml
 codeforlife.iml
-!/.idea/
-!/codeforlife.iml
+/.idea/
